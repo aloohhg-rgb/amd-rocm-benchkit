@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+*.log
+out/
+results/
+.DS_Store
+*.swp
